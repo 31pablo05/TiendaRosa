@@ -1,5 +1,5 @@
 // pages/Productos.jsx
-import Navbar from '../components/Navbar';
+import Navbar from '../Components/Navbar';
 import Footer from '../components/Footer';
 import { FaCartPlus } from 'react-icons/fa';
 
